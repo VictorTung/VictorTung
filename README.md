@@ -12,20 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Victor. I started learning frontend development from 03/2021 because of joining the frontend developnmnet course hold by HK Generation. It is interesting for me to learn new technologies and I will keep learning something new to me and discover their wonderful usage to make life easy. 
+### Hi, I'm Victor
+I started learning frontend development from 03/2021 because of joining the frontend developnmnet course hold by HK Generation. It is interesting for me to learn new technologies and I will keep learning something new to me and discover their wonderful usage to make life easy. 
 
-# 🧠 I have learnt
+### 🧠 I have learnt
 * HTML5
 * CSS3, SASS
 * Bootstrap
 * JavaScript
 * React
 
-# 🔧 Tool
+### 🔧 Tool
 * Version Control(Git)
 
-# 🔗 Projects and Assignments from Generation 
+### 🔗 Projects and Assignments from Generation 
 * [Codecademy projects](https://github.com/VictorTung/gen-c01-exercises)
 
-# 💡 Project
+### 💡 Project
 * [Task manager](https://github.com/VictorTung/Group-project)
