@@ -23,7 +23,7 @@ I started learning frontend development from 03/2021 because of joining the fron
 * React
 
 # 🔧 Tool
-* Version Control(Git)
+* Version Control (Git)
 
 # 🔗 Projects and Assignments from Generation 
 * [Codecademy projects](https://github.com/VictorTung/gen-c01-exercises)
