@@ -18,7 +18,7 @@ I started learning frontend development from 03/2021 because of joining the fron
 # 🧠 I have learnt
 ### 📚 Langues and Frameworks
 * HTML5
-* CSS3, SASS
+* CSS3, SASS, SCSS
 * Bootstrap
 * JavaScript
 * React
