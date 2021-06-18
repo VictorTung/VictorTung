@@ -18,13 +18,17 @@ I started learning frontend development from 03/2021 because of joining the fron
 # 🧠 I have learnt
 ### 📚 Langues and Frameworks
 * HTML5
-* CSS3, SASS, SCSS
+* CSS3
 * Bootstrap
 * JavaScript
 * React
 
 ### 🔧 Tool
 * Version Control (Git)
+
+# 🌱 I’m currently learning
+* SASS, SCSS
+* 
 
 # 🔗 Projects and Assignments from Generation 
 * [Codecademy projects](https://github.com/VictorTung/gen-c01-exercises)
