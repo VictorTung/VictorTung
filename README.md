@@ -28,7 +28,7 @@ I started learning frontend development from 03/2021 because of joining the fron
 
 # 🌱 I’m currently learning
 * SASS, SCSS
-* 
+* npm
 
 # 🔗 Projects and Assignments from Generation 
 * [Codecademy projects](https://github.com/VictorTung/gen-c01-exercises)
