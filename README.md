@@ -21,12 +21,12 @@ I started learning frontend development from 03/2021 because of joining the fron
 * CSS3
 * Bootstrap
 * JavaScript
-* React
 
 ### 🔧 Tool
 * Version Control (Git)
 
 # 🌱 I’m currently learning
+* React
 * SASS, SCSS
 * npm
 
