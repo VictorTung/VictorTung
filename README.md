@@ -21,12 +21,13 @@ I started learning frontend development from 03/2021 because of joining the fron
 * CSS3, SASS, SCSS
 * Bootstrap
 * JavaScript
+* Mocha
 * React
 * SQL
 
 ### 🔧 Tool
 * Version Control (Git)
-* Mocha
+
 
 ### other special software
 * Zbrush
