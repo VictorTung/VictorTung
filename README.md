@@ -26,6 +26,7 @@ I started learning frontend development from 03/2021 because of joining the fron
 
 ### 🔧 Tool
 * Version Control (Git)
+* Mocha
 
 ### other special software
 * Zbrush
