@@ -32,8 +32,8 @@ I started learning frontend development from 03/2021 because of joining the fron
 ### other special software
 * Zbrush
 
-# 🌱 I’m currently learning
-* Redux
+# 🌱 I’m currently doing
+* [free code camp project](https://github.com/VictorTung/freeCodeCamp)
 
 # 🔗 Projects and Assignments from Generation 
 * [Codecademy projects](https://github.com/VictorTung/gen-c01-exercises)
