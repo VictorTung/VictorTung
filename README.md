@@ -24,6 +24,7 @@ I started learning frontend development from 03/2021 because of joining the fron
 * Mocha
 * React
 * SQL
+* PHP
 
 ### 🔧 Tool
 * Version Control (Git)
